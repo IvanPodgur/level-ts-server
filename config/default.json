@@ -1,0 +1,4 @@
+{
+  "requiresAuth": true,
+  "jwtPrivateKey": "TODO_CHANGE_PRIVATE_KEY"
+}
